@@ -1,1 +1,2 @@
-Feature 1
+feature one
+>>>>>>> 6500b898cb042811bcd62395561cfde262fd9319
